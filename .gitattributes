@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+dataset1.csv filter=lfs diff=lfs merge=lfs -text
+enhanced_motor_vehicle_repair_towing_dataset.csv filter=lfs diff=lfs merge=lfs -text
+EV_Predictive_Maintenance_Dataset_15min.csv filter=lfs diff=lfs merge=lfs -text
